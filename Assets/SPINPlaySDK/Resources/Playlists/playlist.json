@@ -1,0 +1,18 @@
+{
+  "wrapAround": true,
+  "playNext": true,
+  "items": [
+    {
+      "title": "Blazers 4k x 4k",
+      "url": "https://media.pixvana.com/media/mDN3P6swTMEkKM386l13kcC8cAzSjlFjgD5JrxZaje8~/index.opf"
+    },
+    {
+      "title": "Dan Colvin",
+      "url": "http://media.pixvana.com/media/twM2FJs0tM9R48nj7eXJbYwcpX-CVrD6uBznicrsi00~/index.opf"
+    },
+    {
+      "title": "Demo Reel",
+      "url": "http://media.pixvana.com/tests/opf/frustum01/index.opf"
+    }
+  ]
+}
